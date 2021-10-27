@@ -24,6 +24,10 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 * MobileNet+GRU with a validation accuracy of 94% and a validation loss of 0.1122 
 
 
+## Models Link:
+
+https://drive.google.com/drive/folders/1sXhFpg45kv9JBwMfBBggHFI07tIZeu73?usp=sharing
+
 ## Live Testing:
 
 ![Screenshot 2021-10-27 at 1 53 20 AM](https://user-images.githubusercontent.com/22883918/138974077-a5e2cc86-7736-467a-99ab-5e02c910ea6d.png)
